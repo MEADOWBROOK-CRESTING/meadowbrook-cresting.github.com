@@ -1,0 +1,13 @@
+site_name: TEST SITE
+
+nav:
+  - Welcome: index.md
+  - Divider 1:
+    - Page 1: Divider 1/Page 1
+    - Page 2: Divider 1/Page 2
+  - Divider 2:
+    - Page 3: Divider 2/Page 3
+    - Page 4: Divider 2/Page 4
+
+theme:
+  name: 'windmill-dark'
