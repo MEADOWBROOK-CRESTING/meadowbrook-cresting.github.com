@@ -9,9 +9,6 @@ nav:
     - Page 3: Divider 2/Page 3.md
     - Page 4: Divider 2/Page 4.md
 
-## theme:
-  name: 'windmill-dark'
-
 theme:
   name: material
   favicon: favicon.ico
