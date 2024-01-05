@@ -9,5 +9,34 @@ nav:
     - Page 3: Divider 2/Page 3.md
     - Page 4: Divider 2/Page 4.md
 
-theme:
+## theme:
   name: 'windmill-dark'
+
+theme:
+  name: material
+  favicon: favicon.ico
+  logo: GORP.png
+  features:
+    - nevigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.coede.copy
+    - navigation.footer
+  language: en
+  palette:
+    - scheme: slate
+      toggle:
+        icon: fontawesome/solid/sun
+        name: Switch to light mode
+      primary: red
+      accent: red
+    - scheme: default
+      toggle:
+        icon: fontawesome/solid/moon
+        name: Switch to dark mode
+      primary: blue
+      accent: red
