@@ -1,13 +1,13 @@
-site_name: TEST SITE
+site_name: MeadowBrook Cresting
 
 nav:
   - Welcome: index.md
   - Divider 1:
-    - Page 1: Divider 1/Page 1
-    - Page 2: Divider 1/Page 2
+    - Page 1: Divider 1/Page 1.md
+    - Page 2: Divider 1/Page 2.md
   - Divider 2:
-    - Page 3: Divider 2/Page 3
-    - Page 4: Divider 2/Page 4
+    - Page 3: Divider 2/Page 3.md
+    - Page 4: Divider 2/Page 4.md
 
 theme:
   name: 'windmill-dark'
